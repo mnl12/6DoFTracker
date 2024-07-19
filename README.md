@@ -1,5 +1,5 @@
 # 3D 6DoF Object Tracker
-This is a video demo for a realtime 6DoF object tracker with known 3d mesh model implemented in C++.
+This is a demo video  for a realtime 6DoF object tracker with known 3d mesh model implemented in C++.
 
 
 
